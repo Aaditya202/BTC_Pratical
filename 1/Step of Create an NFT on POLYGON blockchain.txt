@@ -1,0 +1,6 @@
+1 go to openseas Website
+2 LOGIN TO METAMASK with polygon main net
+3 then create an nft 
+go to my collectin then create new collection and name discription and other 
+4 final click on create option
+
